@@ -1,0 +1,117 @@
+{
+    "levelName": "Candy",
+    "levelNumber": 5,
+    
+    "heroesPosition": {"x": 0.43, "y": 0.2},
+    "prizeType": 1,
+    "prizePosition": {"x": 0.85, "y": 0.95},
+    
+    "vines": [
+        {  "length": 13,
+            "xAnchorPoint": 0.95,
+            "yAnchorPoint": 0.8796
+        },
+        {  "length": 12,
+            "xAnchorPoint": 0.1592,
+            "yAnchorPoint": 0.9196
+        },
+        {
+            "length": 14,
+            "xAnchorPoint": 0.0983,
+            "yAnchorPoint": 0.7488
+        }
+    ],
+    
+    "items": [
+        { "type": "PhysicalObjectOne",
+            "layer": 2,
+            "xPoint": 0.1692,
+            "yPoint": 0.4600,
+            "zRotation": 3,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        },
+        
+        { "type": "PhysicalObjectOne",
+            "layer": 2,
+            "xPoint": 0.8592,
+            "yPoint": 0.7550,
+            "zRotation": 3,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        },
+        
+        
+        { "type": "PhysicalObjectTwo",
+            "layer": 2,
+            "xPoint": 0.1602,
+            "yPoint": 0.8300,
+            "zRotation": 2,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        },
+        
+        { "type": "PhysicalObjectTwo",
+            "layer": 2,
+            "xPoint": 0.8502,
+            "yPoint": 0.4783,
+            "zRotation": 1,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        },
+        
+        
+        { "type": "PhysicalObjectTwo",
+            "layer": 2,
+            "xPoint": 0.6092,
+            "yPoint": 0.7283,
+            "zRotation": 3.5,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        },
+        
+        { "type": "PhysicalObjectThree",
+            "layer": 2,
+            "xPoint": 0.2592,
+            "yPoint": 0.6283,
+            "zRotation": 3,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        },
+        
+        
+        { "type": "PhysicalObjectFour",
+            "layer": 2,
+            "xPoint": 0.5092,
+            "yPoint": 0.4783,
+            "zRotation": 4,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        },
+        
+        { "type": "PhysicalObjectFour",
+            "layer": 2,
+            "xPoint": 0.6692,
+            "yPoint": 0.5883,
+            "zRotation": 8,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        }
+    ]
+}

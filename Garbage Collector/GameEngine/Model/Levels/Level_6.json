@@ -1,0 +1,53 @@
+{
+    "levelName": "Sweet",
+    "levelNumber": 6,
+    
+    "heroesPosition": {"x": 0.45, "y": 0.212},
+    "prizeType": 1,
+    "prizePosition": {"x": 0.97, "y": 0.98},
+    
+    "vines": [
+        {  "length": 16,
+            "xAnchorPoint": 0.95,
+            "yAnchorPoint": 0.8996
+        },
+        {
+            "length": 18,
+            "xAnchorPoint": 0.0993,
+            "yAnchorPoint": 0.7588
+        }
+    ],
+    
+    "items": [
+        { "type": "Wood",
+            "layer": 2,
+            "xPoint": 0.5592,
+            "yPoint": 0.5583,
+            "zRotation": 25,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        },
+        { "type": "PhysicalObjectTwo",
+            "layer": 2,
+            "xPoint": 0.03592,
+            "yPoint": 0.6583,
+            "zRotation": 3,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        },
+        { "type": "Wood",
+            "layer": 2,
+            "xPoint": 0.483592,
+            "yPoint": 0.6,
+            "zRotation": 2,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        }
+    ]
+}

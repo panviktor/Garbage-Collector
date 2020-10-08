@@ -1,0 +1,52 @@
+{
+    "levelName": "Сonsummation",
+    "levelNumber": 10,
+    
+    "heroesPosition": {"x": 0.55, "y": 0.2},
+    "prizeType": 1,
+    "prizePosition": {"x": 0.2, "y": 0.95},
+    
+    "vines": [
+        {  "length": 13,
+            "xAnchorPoint": 0.95,
+            "yAnchorPoint": 0.8996
+        },
+        {
+            "length": 14,
+            "xAnchorPoint": 0.0993,
+            "yAnchorPoint": 0.7588
+        }
+    ],
+    
+    "items": [
+        { "type": "Wood",
+            "layer": 2,
+            "xPoint": 0.5592,
+            "yPoint": 0.5583,
+            "zRotation": 25,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        },
+        { "type": "Wood",
+            "layer": 2,
+            "xPoint": 0.6592,
+            "yPoint": 0.6583,
+            "zRotation": 305,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        },
+        { "type": "Wood",
+            "layer": 2,
+            "xPoint": 0.092,
+            "yPoint": 0.6583,
+            "zRotation": 23,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        }
+    ]}

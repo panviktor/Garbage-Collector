@@ -1,0 +1,37 @@
+{
+  "levelName": "Minikin",
+  "levelNumber": 3,
+  
+  "heroesPosition": {"x": 0.36, "y": 0.21},
+  "prizeType": 1,
+  "prizePosition": {"x": 0.54, "y": 0.9},
+  
+  "vines": [{
+    "length": 26,
+    "xAnchorPoint": 0.1187,
+    "yAnchorPoint": 0.9383
+  },
+  
+  {  "length": 28,
+    "xAnchorPoint": 0.85,
+    "yAnchorPoint": 0.5996
+  },
+  {
+    "length": 10,
+    "xAnchorPoint": 0.8593,
+    "yAnchorPoint": 0.9588
+  }
+  ],
+  
+  "items": [
+      { "type": "PhysicalObjectThree",
+          "layer": 2,
+          "xPoint": 0.6592,
+          "yPoint": 0.5583,
+          "zRotation": 35,
+          "itemsSize": {
+              "width": 0.34,
+              "height": 0.4
+          }
+      }]
+}

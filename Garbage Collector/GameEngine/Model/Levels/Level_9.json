@@ -1,0 +1,46 @@
+{
+    "levelName": "Honey Wind",
+    "levelNumber": 9,
+    
+    "heroesPosition": {"x": 0.45, "y": 0.2},
+    "prizeType": 1,
+    "prizePosition": {"x": 0.8, "y": 0.8},
+    
+    "vines": [
+        {  "length": 13,
+            "xAnchorPoint": 0.95,
+            "yAnchorPoint": 0.8996
+        },
+        {  "length": 20,
+            "xAnchorPoint": 0.95,
+            "yAnchorPoint": 0.8996
+        },
+        {
+            "length": 14,
+            "xAnchorPoint": 0.0493,
+            "yAnchorPoint": 0.7588
+        }
+    ],
+    
+    "items": [
+        { "type": "Wood",
+            "layer": 2,
+            "xPoint": 0.4592,
+            "yPoint": 0.6583,
+            "zRotation": 25,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        },
+        { "type": "Wood",
+            "layer": 2,
+            "xPoint": 0.2592,
+            "yPoint": 0.4583,
+            "zRotation": 105,
+            "itemsSize": {
+                "width": 0.34,
+                "height": 0.4
+            }
+        }
+    ]}

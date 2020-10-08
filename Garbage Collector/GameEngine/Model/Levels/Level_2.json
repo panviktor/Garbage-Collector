@@ -1,0 +1,24 @@
+{
+  "levelName": "Adamant",
+  "levelNumber": 2,
+  
+  "heroesPosition": {"x": 0.45, "y": 0.2},
+  "prizeType": 1,
+  "prizePosition": {"x": 0.17, "y": 0.9},
+  
+  "vines": [{
+    "length": 16,
+    "xAnchorPoint": 0.1387,
+    "yAnchorPoint": 0.9383
+  },
+  {  "length": 18,
+    "xAnchorPoint": 0.85,
+    "yAnchorPoint": 0.8998
+  },
+  {
+    "length": 16,
+    "xAnchorPoint": 0.8593,
+    "yAnchorPoint": 0.7888
+  }
+  ]
+}
