@@ -1,13 +1,13 @@
 {
-    "levelName": "Diamond",
+    "levelName": "Scrapyard",
     "levelNumber": 1,
     
     "heroesPosition": {"x": 0.80, "y": 0.185},
     "prizeType": 1,
-    "prizePosition": {"x": 0.15, "y": 0.9},
+    "prizePosition": {"x": 0.151, "y": 0.9},
     
     "vines": [
-        {  "length": 25,
+        {  "length": 24,
             "xAnchorPoint": 0.80,
             "yAnchorPoint": 0.7996
         },
