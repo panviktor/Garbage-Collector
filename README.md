@@ -10,6 +10,7 @@ realistic physics
 amazing graphics
 amazing music
 
+
 MIT
 
 ![Screen 1](https://raw.githubusercontent.com/panviktor/Garbage-Collector/main/resources/1.png)
@@ -21,3 +22,5 @@ MIT
 ![Screen 4](https://raw.githubusercontent.com/panviktor/Garbage-Collector/main/resources/4.png)
 
 ![Screen 5](https://raw.githubusercontent.com/panviktor/Garbage-Collector/main/resources/5.png)
+
+
